@@ -1,13 +1,13 @@
-[← Back](../README.md)
+[← Retour](../README.md)
 
 # Planification du travail
 
-L'ensemble de votre travail doit être documenté et planifier sur Github en respectant les meilleures pratiques de développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
+L'ensemble de votre travail doit être documenté et planifié sur Github en respectant les meilleures pratiques de développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
 
 1. Un [**Github Project**](#github-project)
 2. Un [**milestone**](#milestone) pour le TP
-3. Des [**issues**](#issues)
-4. Des [**pull Requests**](#pull-requests) (PR)
+3. Des [**issues**](#issues-min-3)
+4. Des [**pull Requests**](#pull-requests-min-3) (PR)
 5. Un [**arbre de commits**](#arbre-de-commits)
 
 Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fichier d'exercice `.md` correspondant au TP. Les critères d'évaluation sont mentionnés dans chacune des sections.
@@ -36,7 +36,7 @@ Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fic
 
 **1** comprenant le titre, la description, la date et les issues associées.
 
-## Issues
+## Issues (min. 3)
 
 > Si vous utilisez un autre planificateur de tâches, assurez-vous que les requis soient respectés de façon équivalente.
 
@@ -51,9 +51,9 @@ Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fic
 
 **Screenshots**
 
-**3** (1 par issue) avec tous les éléments demandés visibles.
+**3 issues** (1 screenshot par issue) avec tous les éléments demandés visibles.
 
-## Pull requests
+## Pull requests (min. 3)
 
 **Critères**
 
@@ -66,7 +66,7 @@ Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fic
 
 **Screenshots**
 
-**3** (1 à 2 par PR) avec tous les éléments demandés visibles (code review : seulement une partie)
+**3 PRs** (1 à 2 screenshots par PR) avec tous les éléments demandés visibles (code review : seulement une partie)
 
 ## Arbre de commits
 

@@ -1,4 +1,4 @@
-[← Back](../README.md)
+[← Retour](../README.md)
 
 # Clean Code
 
