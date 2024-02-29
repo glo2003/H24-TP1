@@ -2,13 +2,13 @@
 
 # Clean Code
 
-Votre code doit suivre les meilleures pratiques de Clean Code telles que décrites dans le livre de Robert C. Martin. Plus particulièrement, votre code doit :
+Votre code doit suivre les meilleures pratiques de Clean Code telles que décrites dans le livre de Robert C. Martin. Vous devrez plus particulièrement respecter les critères suivants :
 
-- Être lisible
-- Avoir de l'espace vertical adéquat
-- Avoir de l'espace horizontal adéquat
-- Avoir des noms de variables, de fonctions et de classes claires et représentatives
-- Avoir des fonctions de taille acceptable
+- Lisibilité
+- Formatage (espacements, alignements, etc.)
+- Nommage représentatif et selon les conventions (packages, classes, fonctions, variables, etc.)
+- Éviter les commentaires inutiles et le code inutilisé
+- Éviter les valeurs "magiques" (sans nom) et préférer des constantes ou des enums lorsque nécessaire
 
 Pour vous aider, on vous oblige à mettre en place un outil d'analyse de formatage.
 
